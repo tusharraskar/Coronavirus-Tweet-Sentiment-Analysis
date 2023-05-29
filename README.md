@@ -69,7 +69,7 @@ Various machine learning models were trained:
 
 - Among the deep learning models, the LSTM model trained with the Adam optimizer stood out, achieving an accuracy of 86.8% on the test set.
 
-## 6. Conclusion and Recommendations
+## 6. Conclusion
 
 - Considering the performance of the models, it's clear that machine learning and deep learning techniques hold significant potential for sentiment analysis tasks, especially in the context of global events like a pandemic.
 
